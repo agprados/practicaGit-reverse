@@ -1,8 +1,8 @@
 # practicaGit-reverse
-Práctica Git para Introducción Ing. Software para la primera toma de contacto con Git y GitHub. 
+PrÃ¡ctica Git para IntroducciÃ³n Ing. Software para la primera toma de contacto con Git y GitHub. 
 
 Primero la hicimos siendo yo la colaboradora y ahora hemos intercambiado los papeles.
 
-*** Primera modificación de este archivo. ***
+Primera modificaciÃ³n de este archivo. 
 
-* Segunda modificación de este archivo *
+Segunda modificaciÃ³n de este archivo 
