@@ -4,3 +4,5 @@ Práctica Git para Introducción Ing. Software para la primera toma de contacto co
 Primero la hicimos siendo yo la colaboradora y ahora hemos intercambiado los papeles.
 
 *** Primera modificación de este archivo. ***
+
+* Segunda modificación de este archivo *
